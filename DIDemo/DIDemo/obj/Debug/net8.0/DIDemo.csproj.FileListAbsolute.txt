@@ -1,0 +1,17 @@
+D:\C\DIDemo\DIDemo\obj\Debug\net8.0\DIDemo.csproj.AssemblyReference.cache
+D:\C\DIDemo\DIDemo\obj\Debug\net8.0\DIDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\C\DIDemo\DIDemo\obj\Debug\net8.0\DIDemo.AssemblyInfoInputs.cache
+D:\C\DIDemo\DIDemo\obj\Debug\net8.0\DIDemo.AssemblyInfo.cs
+D:\C\DIDemo\DIDemo\obj\Debug\net8.0\DIDemo.csproj.CoreCompileInputs.cache
+D:\C\DIDemo\DIDemo\bin\Debug\net8.0\DIDemo.exe
+D:\C\DIDemo\DIDemo\bin\Debug\net8.0\DIDemo.deps.json
+D:\C\DIDemo\DIDemo\bin\Debug\net8.0\DIDemo.runtimeconfig.json
+D:\C\DIDemo\DIDemo\bin\Debug\net8.0\DIDemo.dll
+D:\C\DIDemo\DIDemo\bin\Debug\net8.0\DIDemo.pdb
+D:\C\DIDemo\DIDemo\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\C\DIDemo\DIDemo\obj\Debug\net8.0\DIDemo.csproj.CopyComplete
+D:\C\DIDemo\DIDemo\obj\Debug\net8.0\DIDemo.dll
+D:\C\DIDemo\DIDemo\obj\Debug\net8.0\refint\DIDemo.dll
+D:\C\DIDemo\DIDemo\obj\Debug\net8.0\DIDemo.pdb
+D:\C\DIDemo\DIDemo\obj\Debug\net8.0\DIDemo.genruntimeconfig.cache
+D:\C\DIDemo\DIDemo\obj\Debug\net8.0\ref\DIDemo.dll
